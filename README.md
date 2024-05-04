@@ -5,4 +5,6 @@ Easy openshift project selection with the help of fzf.
 Before you start, make sure you have `fzf` installed on your system.
 - [Download fzf](https://github.com/junegunn/fzf)
 
+---
+### Other
 `set-alias ocp oc-project.ps1`
