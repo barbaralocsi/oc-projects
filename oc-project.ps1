@@ -1,0 +1,1 @@
+oc project $(oc projects -q | fzf)
