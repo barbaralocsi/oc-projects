@@ -1,1 +1,1 @@
-oc project $(oc projects -q | fzf)
+oc project $(oc projects -q | fzf --height 40%)
